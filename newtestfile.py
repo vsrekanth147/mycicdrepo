@@ -1,2 +1,4 @@
-print "Hello World Program"
-print "My Name Is Srikanth"
+x="Hello World Program"
+print (x)
+y="My Name Is Srikanth"
+print(y)
