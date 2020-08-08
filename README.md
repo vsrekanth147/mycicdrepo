@@ -1,2 +1,3 @@
-# mycicdrepo
-test cicd
+# maven-project
+
+Simple Maven Project
